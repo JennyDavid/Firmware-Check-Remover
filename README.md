@@ -15,6 +15,6 @@ The app will self-terminate if Apple's firmware checker doesn't exist.
 
 No more worries forgetting to delete the firmware checkers manually after each update of High Sierra.
 
-The app is developed to prevent/remove this check from running in background in our hackintosh machines.
+The app is developed to prevent/remove the following check from running in background in our hackintosh machines.
 ![22972-28463-rjleaoxui0ty-l](https://user-images.githubusercontent.com/23084817/34171121-31bbfdb4-e528-11e7-9c66-e74cfa6e8a6a.jpg)
 
